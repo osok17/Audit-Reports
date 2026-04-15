@@ -1,4 +1,4 @@
-# [SukukFi Report](https://code4rena.com/audits/2025-11-sukukfi](https://code4rena.com/reports/2025-11-sukukfi)
+# [SukukFi Report](https://code4rena.com/reports/2025-11-sukukfi)
 
 | ID | Title |
 |:--:|:---|
